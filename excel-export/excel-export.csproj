@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp2.0;netcoreapp2.1</TargetFrameworks>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <RootNamespace>Export.XLS</RootNamespace>
+    <AssemblyVersion>2.1.0.0</AssemblyVersion>
+    <FileVersion>2.1.0.0</FileVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>2.1.0</Version>
+    <Authors>Serhiy Perevoznyk</Authors>
+    <RepositoryUrl>https://github.com/perevoznyk/excel-export</RepositoryUrl>
+    <Description>.NET Core 2 library for on-fly generation of Microsoft Excel files without Microsoft Office installed.
+It creates XLS documents in Microsoft Excel Binary Interchange File Format (BIFF) which can be viewed and modified in Microsoft Excel 97 or later.</Description>
+    <PackageTags>excel xls export</PackageTags>
+    <PackageProjectUrl>https://github.com/perevoznyk/excel-export</PackageProjectUrl>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>excel-export-key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+</Project>

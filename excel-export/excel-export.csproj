@@ -16,6 +16,8 @@ It creates XLS documents in Microsoft Excel Binary Interchange File Format (BIFF
     <PackageProjectUrl>https://github.com/perevoznyk/excel-export</PackageProjectUrl>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>excel-export-key.snk</AssemblyOriginatorKeyFile>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>Serhiy Perevoznyk</Copyright>
   </PropertyGroup>
 
 </Project>
